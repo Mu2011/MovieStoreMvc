@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "/mnt/Movie store project/MovieStoreMvc/wwwroot/Uploads/027c79ee-f55c-4cea-9239-74076fa99e7e.jpeg",
+      "PackagePath": "staticwebassets/Uploads/027c79ee-f55c-4cea-9239-74076fa99e7e.jpeg"
+    },
+    {
+      "Id": "/mnt/Movie store project/MovieStoreMvc/wwwroot/Uploads/250ac0a1-6a94-459e-b9be-ea3312eb2891.jpeg",
+      "PackagePath": "staticwebassets/Uploads/250ac0a1-6a94-459e-b9be-ea3312eb2891.jpeg"
+    },
+    {
+      "Id": "/mnt/Movie store project/MovieStoreMvc/wwwroot/Uploads/31da1dad-9c78-4875-a89b-fa470364b578.jpeg",
+      "PackagePath": "staticwebassets/Uploads/31da1dad-9c78-4875-a89b-fa470364b578.jpeg"
+    },
+    {
+      "Id": "/mnt/Movie store project/MovieStoreMvc/wwwroot/Uploads/60885da6-106a-4751-9435-a722bbcb59ec.jpeg",
+      "PackagePath": "staticwebassets/Uploads/60885da6-106a-4751-9435-a722bbcb59ec.jpeg"
+    },
+    {
+      "Id": "/mnt/Movie store project/MovieStoreMvc/wwwroot/Uploads/6cbd8327-5ce5-4d08-8fdd-cd0f25ddb46e.jpeg",
+      "PackagePath": "staticwebassets/Uploads/6cbd8327-5ce5-4d08-8fdd-cd0f25ddb46e.jpeg"
+    },
+    {
+      "Id": "/mnt/Movie store project/MovieStoreMvc/wwwroot/Uploads/76600525-9c01-42ea-958f-8f09973d56d9.jpeg",
+      "PackagePath": "staticwebassets/Uploads/76600525-9c01-42ea-958f-8f09973d56d9.jpeg"
+    },
+    {
+      "Id": "/mnt/Movie store project/MovieStoreMvc/wwwroot/Uploads/825177a7-25ad-4722-bd74-1a145ba0d887.jpeg",
+      "PackagePath": "staticwebassets/Uploads/825177a7-25ad-4722-bd74-1a145ba0d887.jpeg"
+    },
+    {
+      "Id": "/mnt/Movie store project/MovieStoreMvc/wwwroot/Uploads/836e7919-1606-4fcd-b92e-75f13fafe653.jpeg",
+      "PackagePath": "staticwebassets/Uploads/836e7919-1606-4fcd-b92e-75f13fafe653.jpeg"
+    },
+    {
+      "Id": "/mnt/Movie store project/MovieStoreMvc/wwwroot/Uploads/83f228e8-7464-4cef-a0e9-398ea46aa7b6.png",
+      "PackagePath": "staticwebassets/Uploads/83f228e8-7464-4cef-a0e9-398ea46aa7b6.png"
+    },
+    {
+      "Id": "/mnt/Movie store project/MovieStoreMvc/wwwroot/Uploads/8881b8e1-2486-4844-9b1f-e8e76721250b.jpg",
+      "PackagePath": "staticwebassets/Uploads/8881b8e1-2486-4844-9b1f-e8e76721250b.jpg"
+    },
+    {
+      "Id": "/mnt/Movie store project/MovieStoreMvc/wwwroot/Uploads/9917acd6-f742-4432-a37f-c5e0971d4074.png",
+      "PackagePath": "staticwebassets/Uploads/9917acd6-f742-4432-a37f-c5e0971d4074.png"
+    },
+    {
+      "Id": "/mnt/Movie store project/MovieStoreMvc/wwwroot/Uploads/9e062def-de0d-4f6c-b68c-50ac6a515590.jpeg",
+      "PackagePath": "staticwebassets/Uploads/9e062def-de0d-4f6c-b68c-50ac6a515590.jpeg"
+    },
+    {
+      "Id": "/mnt/Movie store project/MovieStoreMvc/wwwroot/Uploads/b5441f56-e3e6-4dcb-b7d1-b85c462d1825.jpeg",
+      "PackagePath": "staticwebassets/Uploads/b5441f56-e3e6-4dcb-b7d1-b85c462d1825.jpeg"
+    },
+    {
+      "Id": "/mnt/Movie store project/MovieStoreMvc/wwwroot/Uploads/b5b33d13-6e0b-4e70-99be-b7ab0b0f8960.jpeg",
+      "PackagePath": "staticwebassets/Uploads/b5b33d13-6e0b-4e70-99be-b7ab0b0f8960.jpeg"
+    },
+    {
+      "Id": "/mnt/Movie store project/MovieStoreMvc/wwwroot/Uploads/bbe372e9-de0a-4b29-8781-2e0f9656d4bf.jpeg",
+      "PackagePath": "staticwebassets/Uploads/bbe372e9-de0a-4b29-8781-2e0f9656d4bf.jpeg"
+    },
+    {
+      "Id": "/mnt/Movie store project/MovieStoreMvc/wwwroot/Uploads/d210656b-11b3-43fc-b06c-c97169964f2c.png",
+      "PackagePath": "staticwebassets/Uploads/d210656b-11b3-43fc-b06c-c97169964f2c.png"
+    },
+    {
+      "Id": "/mnt/Movie store project/MovieStoreMvc/wwwroot/Uploads/e55dc5c2-37f5-4396-bf82-79e98e43f943.jpeg",
+      "PackagePath": "staticwebassets/Uploads/e55dc5c2-37f5-4396-bf82-79e98e43f943.jpeg"
+    },
+    {
+      "Id": "/mnt/Movie store project/MovieStoreMvc/wwwroot/css/forms.css",
+      "PackagePath": "staticwebassets/css/forms.css"
+    },
+    {
+      "Id": "/mnt/Movie store project/MovieStoreMvc/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MovieStoreMvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MovieStoreMvc.props",
+      "PackagePath": "build\\MovieStoreMvc.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MovieStoreMvc.props",
+      "PackagePath": "buildMultiTargeting\\MovieStoreMvc.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MovieStoreMvc.props",
+      "PackagePath": "buildTransitive\\MovieStoreMvc.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
